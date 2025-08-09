@@ -68,15 +68,15 @@ Edit
 jupyter notebook notebooks/eda_analysis.ipynb
 Datasets Used
 Downloadable Fuel Economy Data – FuelEconomy.gov
-
+https://www.fueleconomy.gov/feg/download.shtml
 Electricity Cost Prediction Dataset – Kaggle
-
+https://www.kaggle.com/datasets/shalmamuji/electricity-cost-prediction-dataset
 Electric Vehicle Charging Patterns – Kaggle
-
+https://afdc.energy.gov/data/10324
 U.S. Production, Consumption, and Trade of Petroleum Products – AFDC
-
+https://afdc.energy.gov/data/10326
 Average Retail Fuel Prices in the United States – AFDC
-
+https://afdc.energy.gov/data/10460
 Consumption of Natural Gas in the United States – AFDC
 
 Key Insights
